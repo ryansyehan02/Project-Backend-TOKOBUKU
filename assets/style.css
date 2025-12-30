@@ -1,0 +1,23 @@
+.footer {
+	position: fixed;
+	top: 90%;
+	height: 10%;
+	background-color: #E2E2E2;
+	padding-right: 5%;
+	padding-left: 5%;
+	border: 0.5px solid #C9C9C9;
+	width: 100%;
+	padding-top: 1%;
+}
+.headPrint {
+	font-size: 16px;
+	font-weight: lighter;
+	text-transform: uppercase;
+	color: #000000;
+	background-color: #CCCCCC;
+}
+#header {
+	position: fixed;
+	width: 100%;
+	z-index: 1;
+}
